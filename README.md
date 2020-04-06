@@ -1,5 +1,5 @@
 # ML- project 1 - Airbnb
-My friend wants to become an Airbnb host. He came to me to evaluate which nightly rent price would the more efficient : if he tries to charge above market price for a living space he'd like to rent, then renters will select more affordable alternatives which are similar to his. If he sets his nightly rent price too low, he'll miss out on potential revenue.
+My friend wants to become an Airbnb host. He came to me to evaluate which nightly rent price would be the more efficient : if he tries to charge above market price for a living space he'd like to rent, then renters will select more affordable alternatives which are similar to his. If he sets his nightly rent price too low, he'll miss out on potential revenue.
 
 One strategy we could use is to:
 
